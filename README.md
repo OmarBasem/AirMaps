@@ -16,5 +16,11 @@ A program in Java to find the "best" route between two airports depending on var
 ```
 git clone https://github.com/OmarBasem/AirMaps.git
 ```
-
 Make sure to unzip the JARs.zip file and add the 3 dependencies to your IDE
+
+## Datasets
+
+The included datasets are from the OpenFlights database.
+You can find more datasets from: https://openflights.org/data.html
+
+
