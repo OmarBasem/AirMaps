@@ -1,2 +1,2 @@
 # AirMaps
-A program to find the "best" route between two airports depending on various criteria
+A program in Java to find the "best" route between two airports depending on various criteria.
